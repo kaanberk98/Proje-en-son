@@ -1,0 +1,10 @@
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\bin\Debug\Bitirme2.exe.config
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\bin\Debug\Bitirme2.exe
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\bin\Debug\Bitirme2.pdb
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.csprojAssemblyReference.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.Form1.resources
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.Properties.Resources.resources
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.csproj.GenerateResource.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.exe
+C:\Users\Kaan Berk BİLGİN\Source\Repos\Bitirme2\Bitirme2\obj\Debug\Bitirme2.pdb
